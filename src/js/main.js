@@ -110,7 +110,7 @@
         });
         $(this.id + " .opacity").scojs_tooltip({
             appendTo: this.id,
-            content: '弹幕透明度'
+            content: 'Transparancy'
         });
         $(this.id + " .show-danmu").scojs_tooltip({
             appendTo: this.id,
